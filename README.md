@@ -28,7 +28,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 Quando estiver instalado localmente. O sistema funciona de forma bem simples tem as telas de cadastro e depois tem o relatório 
 
